@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 跳出去，太遥远了
+subtitle: syhanの孤独之心俱乐部
 description:
-author: John Doe
-language:
-timezone:
+author: syhan
+language: zh
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://syhan.github.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -62,10 +62,17 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+
+tag_generator:
+  per_page: 10
+
+disqus_shortname: 0blog
+
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: modernist
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/syhan/syhan.github.com.git
