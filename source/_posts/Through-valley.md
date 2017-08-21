@@ -1,5 +1,5 @@
 ---
-title: 我想回头望
+title: 我想回头望，把故事从头讲
 date: 2017-08-20 23:23:00
 tags: inspiration
 comments: true
