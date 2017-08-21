@@ -6,6 +6,6 @@ comments: true
 sharing: true
 footer: true
 ---
-![](/images/handwriting/Windows98_1.jpg)
-![](/images/handwriting/Windows98_2.jpg)
-![冲出你的窗口](/images/handwriting/Windows98_3.jpg)
+![](/images/handwriting/Outside-the-window_1.jpg)
+![](/images/handwriting/Outside-the-window_2.jpg)
+![](/images/handwriting/Outside-the-window_3.jpg)
