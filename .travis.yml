@@ -25,4 +25,3 @@ branches:
 env:
   global:
     - GH_REF: github.com/syhan/syhan.github.com.git
-    - GH_TOKEN: 66eb019ce2da079eda3d9c8ef1d49cf11579d586
