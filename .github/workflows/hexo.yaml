@@ -23,7 +23,6 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
-      - run: git clone https://github.com/heroicyang/hexo-theme-modernist.git themes/modernist
       - run: npm install
       - run: npm run build
   
