@@ -1,0 +1,3 @@
+[submodule "themes/modernist"]
+    path = themes/modernist
+    url = https://github.com/heroicyang/hexo-theme-modernist.git
